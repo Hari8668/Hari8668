@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauswamihariom" target="blank"><img src="https://img.shields.io/twitter/follow/gauswamihariom?logo=twitter&style=for-the-badge" alt="gauswamihariom" /></a> </p>
 
-- 🔭 I’m currently working on **Bite_Buddy**
+- 🔭 I’m currently working on **Bite_Buddy (Using MERN Stack)**
 
 - 🌱 I’m currently learning **React-Native**
 
